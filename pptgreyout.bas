@@ -51,9 +51,7 @@ Sub StripAllDesignCustomisationsWithMinFontSizeAndRemoveEmptyTextboxes()
             Set shp = sld.Shapes(i)
             If shp.HasTextFrame Then
                 If shp.TextFrame.HasText Then
-                    ' Do nothing if the shape has text
                 Else
-                    ' Delete shape if it has no text
                     shp.Delete
                 End If
             End If
@@ -62,5 +60,6 @@ Sub StripAllDesignCustomisationsWithMinFontSizeAndRemoveEmptyTextboxes()
 
     MsgBox "Powerpoint greyed out"
 End Sub
+
 
 
