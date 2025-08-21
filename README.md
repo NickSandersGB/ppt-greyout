@@ -6,7 +6,7 @@ VBA code for visual impairment accessibility for Powerpoints - removes images, s
 
 A simple VBA macro created to convert regular powerpoint slides into a format that is legible for visually impaired attendees.
 
-Useful if you need to quickly simplify and normalise slides
+Useful if you need to quickly simplify and normalise slides.
 
 ## Intructions
 
