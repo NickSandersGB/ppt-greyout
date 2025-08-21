@@ -13,7 +13,7 @@ Useful if you need to quickly simplify and normalise slides.
 - Open Powerpoint
 - Alt + F11 to open VBA editor
 - Right click the open presentation, insert -> module
-- Copy in the VBA script
+- Copy in the VBA script - pptgereyout.bas
 - Fn + F5 to apply changes
 
 ## Example Usage
