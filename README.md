@@ -18,3 +18,6 @@ Useful if you need to quickly simplify and normalise slides.
 
 ## Example Usage
 
+| Before | After |
+|--------|-------|
+| ![Before](assets/before.png) | ![After](assets/after.png) |
